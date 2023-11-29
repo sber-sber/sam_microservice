@@ -29,3 +29,5 @@ data = {
         "price": "value4"
     }
 }
+
+print(copy_data(data))
